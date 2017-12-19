@@ -22,6 +22,10 @@ We started using the original upstream repo from Sandi Metz, but due to a lot of
 
 You can get a glimpse of some of that work by taking a look at [recent pull requests](https://github.com/dcarral/99bottles-polyglot/pulls). 
 
-Since there's still a lot of room for improvement to achieve an even smoother setup process, any contributions will be more than welcome. Feel free to ask any question you might have by opening an issue, in any of the related repositories ;)
+Since there's still a lot of room for improvement to achieve an even smoother setup process, any contributions will be more than welcome.
+
+## Do you have any ideas / suggestions? Don't know where to start?
+
+Please feel free to open an issue (in any of the related repositories), we will be happy to hear from you ;)
 
 Happy hacking!
