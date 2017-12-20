@@ -27,13 +27,13 @@ Having problems or doubts trying to do it? Don't hesitate to ask for help, you c
 
 ### Improving test suites
 
-During the initial editions of the workshop in [Belgrade](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) and [Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/), participants were asked to code on top of the [upstream repository from Sandi Metz](https://github.com/sandimetz/99bottles-polyglot).
+During the early days of the workshop, participants in [Berlin](https://www.meetup.com/Software-Craftsmanship-Berlin/events/241973901/),  [Belgrade](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) and [Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/) were asked to code on top of the [upstream repository from Sandi Metz](https://github.com/sandimetz/99bottles-polyglot).
 
-Due to several pairs struggling with the provided project setups, and the inconvenience of their Exercism-dependant constraints, [a fork was created](https://github.com/dcarral/99bottles-polyglot) trying to provide a smoother set up process for everyone.
+Due to several pairs struggling with the provided project setups as well as the detection of inconsistencies among languages and the inconvenience of the Exercism-dependant constraints, [a fork was created](https://github.com/dcarral/99bottles-polyglot) trying to provide a smoother developer experience.
 
-You can get a glimpse of some of that work by reading [recent pull requests](https://github.com/dcarral/99bottles-polyglot/pulls). It's been awesome to receive pull requests from workshop participants!
+You can check out some of that work by taking a look at [recent pull requests](https://github.com/dcarral/99bottles-polyglot/pulls). It's been awesome to receive pull requests from workshop participants!
 
-Any contributions in this regard would be highly appreciated, specially taken into account the decent amount of supported languages.
+Any contributions in this regard would be highly appreciated, specially taking into account the amount of supported languages.
 
 ## Questions, suggestions, thoughts?
 
