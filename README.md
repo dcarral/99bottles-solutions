@@ -1,31 +1,40 @@
-# 99 solutions
+# 99 bottles of beer: solutions
 
-This repository hosts solutions (coded in 30 minutes) in multiple programming languages to the “99 bottles of beer” kata.
+This repository hosts solutions in multiple programming languages to the “99 bottles of beer” kata.
 
-Up to the challenge? The initial test suite can be found @ [dcarral/99bottles-polyglot](https://github.com/dcarral/99bottles-polyglot).
+Inspired by the awesome [99 bottles of OOP ](https://www.sandimetz.com/99bottles/) book, and as part of the [“What is good code? Evaluating code quality”](https://github.com/dcarral/good-code) workshop, participants are asked to pair during 30 minutes trying to satisfy the [provided test suite](https://github.com/dcarral/99bottles-polyglot).
 
-We'll be happy to receive pull request(s) with your solutions! :-)
+Do you fancy? Happy hacking! ;)
 
 ## Context
 
-Inspired by the awesome book [99 bottles of OOP book](https://www.sandimetz.com/99bottles/), participants of [“Good code: evaluating code quality” workshop](https://github.com/dcarral/good-code) invest 30 minutes trying to satisfy the provided test suite.
+After 30 minutes pairing on the problem, volunteers show and explain their solutions to the group. We all together discuss tradeoffs, design choices, etc.
 
-Afterwards, some of the pairs show their code and together we discuss tradeoffs, design choices, refactoring techniques and what not. 
+Among 100+ participants, it's been difficult to find two pairs coming up with the very same solution. This wide range of coding approaches (under slight time pressure, in several programming languages and with different development environments) provides us with a solid starting point to discuss topics like:
 
-Surprisingly enough, it's been difficult to find two pairs coming up with exactly the same solution. That variety of solutions and languages provide an awesome environment to talk software, generating interesting thought exchanges (e.g. duplication tolerance, order of tests, levels of indirection, KISS...).
+  - XP practices such as simple design, pair programming, refactoring, test-driven development...
+  - Software development concepts such as duplication tolerance, refactor aggressivity, layers of indirection, usage of conditionals, KISS / DRY / SOLID, etc.
 
-So, we thought: why should we stop there and not collect a bunch of solutions online? That's how this repo was born, thanks a lot @dnltsk for sparking the light! ;) 
+Thus: why shouldn't we share (at least part of) the workshop experience with everyone by collaboratively creating a collection of solutions? [Sparked by a question by Daniel Teske](https://github.com/dcarral/good-code/issues/1), this repository was born as an attempt in doing so.
 
-## Do you feel like improving the provided test suites / project setups?
+## Contributing
 
-We started using the original upstream repo from Sandi Metz, but due to a lot of pairs struggling with the provided project setup in some of the languages, decided to fork it and polish READMEs and test suites.
+### Adding solutions
 
-You can get a glimpse of some of that work by taking a look at [recent pull requests](https://github.com/dcarral/99bottles-polyglot/pulls). 
+Would you like to add your solution(s)? That's awesome, please go ahead and [open a new pull request](https://github.com/dcarral/99bottles-solutions/pull/new/master) ;)
 
-Since there's still a lot of room for improvement to achieve an even smoother setup process, any contributions will be more than welcome.
+Having problems or doubts trying to do it? Don't hesitate to ask for help, you can find a “Questions, suggestions, thoughts?” section below in this README.
 
-## Do you have any ideas / suggestions? Don't know where to start?
+### Improving test suites
 
-Please feel free to open an issue (in any of the related repositories), we will be happy to hear from you ;)
+During the initial editions of the workshop in [Belgrade](https://www.meetup.com/Software-Craftsmanship-Serbia/events/244400269/) and [Mallorca](https://www.meetup.com/Mallorca-Software-Craftsmanship/events/244506252/), participants were asked to code on top of the [upstream repository from Sandi Metz](https://github.com/sandimetz/99bottles-polyglot).
 
-Happy hacking!
+Due to several pairs struggling with the provided project setups, and the inconvenience of their Exercism-dependant constraints, [a fork was created](https://github.com/dcarral/99bottles-polyglot) trying to provide a smoother set up process for everyone.
+
+You can get a glimpse of some of that work by reading [recent pull requests](https://github.com/dcarral/99bottles-polyglot/pulls). It's been awesome to receive pull requests from workshop participants!
+
+Any contributions in this regard would be highly appreciated, specially taken into account the decent amount of supported languages.
+
+## Questions, suggestions, thoughts?
+
+Please feel free to open an issue in any of the related repositories, or alternatively drop some lines via mail or [Twitter](https://twitter.com/dcarral). I'll be happy to hear from you :)
